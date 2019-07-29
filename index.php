@@ -150,8 +150,10 @@
                     <input type="text" name="string2" class="form-control" placeholder="String" required>
                 </div>
 
+                <!-- Form submit button -->
                 <button type="submit" class="btn btn-primary" value="Submit">Calculate</button>
 
+                <!-- Authors Mark -->
                 <p class="mt-5 mb-3 text-muted">&copy; Ryan Llewellyn 2019</p>
             </form>
         </div>
